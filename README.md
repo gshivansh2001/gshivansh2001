@@ -1,4 +1,4 @@
-### Hey 👋 I'm [Shivansh Gupta](https://github.com/gshivansh2001) 👨‍💻
+###                                            <h2 align = "center"> Hey 👋 I'm [Shivansh Gupta](https://github.com/gshivansh2001) 👨‍💻 </h1>
 
 <!--
 **gshivansh2001/gshivansh2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
