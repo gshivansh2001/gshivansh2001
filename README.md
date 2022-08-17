@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 
 - 📊: Machine learning || Data Science || Natural Language Processing || Computer Vision.
 
-- :seedling: Machine Learning Engineer Intern at [HCL Technologies](https://www.hcltech.com/).
+- :seedling: Machine Learning Intern at [HCL Technologies](https://www.hcltech.com/).
 
-- ⚡: In my free time, I am a budding drama artist @[aBhAy Dramatics Club](https://www.facebook.com/abhaydramaticsclub/) where I practice theater.
+- ⚡: In my free time, I am a budding drama artist @[aBhAy Dramatics Club](https://www.facebook.com/abhaydramaticsclub/).
 
 - 💬:Reach me at [Gmail](gshivansh.19je0781@pe.iitism.ac.in)
 ---
