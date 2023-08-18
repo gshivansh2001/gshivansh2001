@@ -46,14 +46,16 @@ Here are some ideas to get you started:
 </div>
 
 ---
-👨‍🎓 Pursuing Bachelor of Technology (B.Tech) in Petroleum Engineering from [IIT (ISM) Dhanbad](https://www.iitism.ac.in)
+👨‍🎓 Recent Graduate - Bachelor of Technology (B.Tech) in Petroleum Engineering from [IIT (ISM) Dhanbad](https://www.iitism.ac.in)
 
 
 ### 🚴‍♂️ About Me :
 
-- 📊: Machine learning || Data Science || Natural Language Processing || Computer Vision.
-
+- 📊: Machine learning || Data Science || Natural Language Processing || Computer Vision || Prompt Engineering || Generative AI.
+- :seedling: Technical Lead at [HCL Technologies](https://www.hcltech.com/).
+- :seedling: Project Intern (Ongoing research publication) at Directorate General of Mines Safety.
 - :seedling: Machine Learning Intern at [HCL Technologies](https://www.hcltech.com/).
+- :seedling: Research Intern at IIM Udaipur
 
 - ⚡: In my free time, I am a budding drama artist @[aBhAy Dramatics Club](https://www.facebook.com/abhaydramaticsclub/).
 
