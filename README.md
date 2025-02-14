@@ -57,9 +57,8 @@ Here are some ideas to get you started:
 - :seedling: Project Intern at Directorate General of Mines Safety (DGMS).
 - :seedling: Machine Learning Intern at [HCL Technologies](https://www.hcltech.com/).
 - :seedling: Research Intern at IIM Udaipur
-
-- ⚡: In my free time, I am a budding drama artist @[aBhAy Dramatics Club](https://www.facebook.com/abhaydramaticsclub/).
-
+- ⚡ In my free time, I am a budding drama artist @[aBhAy Dramatics Club](https://www.facebook.com/abhaydramaticsclub/).
+- I am a curious and driven person with a background in petroleum engineering. I’ve transitioned into the fields of data science and analytics, exploring the intersection of machine learning, statistics, and real-world applications. My journey includes working on innovative solutions in sectors like energy and operations. Currently, I’m working as a pre-doctoral researcher to delve deeper into understanding management information systems, which interests me, and explore the world of research in academia.
 - 💬:Reach me at [Gmail](gshivansh.19je0781@pe.iitism.ac.in)
 ---
 
