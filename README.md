@@ -46,14 +46,15 @@ Here are some ideas to get you started:
 </div>
 
 ---
+- 👨‍🎓 Research Associate - Indian School of Business @ [Srini Raju Centre for IT and the Networked Economy (SRITNE)](https://www.isb.edu/en/research-thought-leadership/research-centres-institutes/srini-raju-centre-for-it-and-the-networked-economy.html)
 - 👨‍🎓 Recent Graduate - Bachelor of Technology (B.Tech) in Petroleum Engineering from [IIT (ISM) Dhanbad](https://www.iitism.ac.in)
-- ✨ Technical Lead - Data Science (Oil & Gas Consultancy team) at [HCL Technologies](https://www.hcltech.com/).
 
 ### 🚴‍♂️ About Me :
 
 - 📊: Machine learning || Data Science || Natural Language Processing || Computer Vision || Prompt Engineering || Generative AI.
-
-- :seedling: Project Intern (Ongoing research publication) at Directorate General of Mines Safety.
+  
+- ✨ Technical Lead - Data Science (Oil & Gas Consultancy team) at [HCL Technologies](https://www.hcltech.com/) [May'23 - Dec'24]. 
+- :seedling: Project Intern at Directorate General of Mines Safety (DGMS).
 - :seedling: Machine Learning Intern at [HCL Technologies](https://www.hcltech.com/).
 - :seedling: Research Intern at IIM Udaipur
 
